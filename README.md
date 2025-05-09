@@ -81,17 +81,17 @@ Files passing all validations are moved to `Good_Data_Folder`; others to `Bad_Da
 
 ---
 ## File structure 
-cement_strength_reg/
-├── main.py                          # Main Flask application file
-├── requirements.txt                 # Python dependencies
-├── app.yaml                         # Google App Engine configuration file
-├── templates/                       # Folder for HTML templates
-│   └── index.html                   # Home page template
-├── static/                          # Folder for static files (CSS, JS, images, etc.)
-├── prediction_Validation_Insertion.py  # Module for prediction validation and insertion
-├── trainingModel.py                 # Module for training the machine learning model
-├── training_Validation_Insertion.py # Module for training data validation and insertion
-├── predictFromModel.py              # Module for generating predictions from the model
-├── README.md                        # Project documentation
-└── LICENSE                          # License file (optional)
+cement_strength_reg/         
+├── main.py                          # Main Flask application file       
+├── requirements.txt                 # Python dependencies           
+├── app.yaml                         # Google App Engine configuration file           
+├── templates/                       # Folder for HTML templates          
+│   └── index.html                   # Home page template          
+├── static/                          # Folder for static files (CSS, JS, images, etc.)        
+├── prediction_Validation_Insertion.py  # Module for prediction validation and insertion          
+├── trainingModel.py                 # Module for training the machine learning model         
+├── training_Validation_Insertion.py # Module for training data validation and insertion        
+├── predictFromModel.py              # Module for generating predictions from the model          
+├── README.md                        # Project documentation            
+└── LICENSE                          # License file (optional)                
 
