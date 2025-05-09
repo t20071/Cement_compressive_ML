@@ -1,6 +1,3 @@
-# Save the generated README content into a Markdown file
-
-readme_content = """
 # Cement Strength Prediction using Machine Learning
 
 This project aims to build a robust regression pipeline for predicting **concrete compressive strength** based on multiple features related to concrete composition. The solution involves end-to-end automation of data validation, preprocessing, model training, prediction, and deployment.
